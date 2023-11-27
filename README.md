@@ -1,2 +1,3 @@
 # js-TicTacToe
-TicTacToe Game JavaScript App
+
+Tic Tac Toe mini-game, built using JavaScript and JQuery.
